@@ -34,3 +34,24 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/caomod2077/Script/ref
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/jokerbiel13/FourHub/refs/heads/main/FishIt.lua",true))()
 ```
+**ForgeXHub**
+```
+loadstring(game:HttpGet('https://raw.githubusercontent.com/AnonymoDGH/scripts/refs/heads/main/forgex.lua'))()
+```
+
+**BlessedXHub **
+```
+loadstring(game:HttpGet("https://blessedhubx.xyz/Dev-wendel-The-Best/games.lua"))()
+```
+**LexsHUB update fish it script **
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/albibot69-lgtm/Lexs/refs/heads/main/Loader/Main.lua"))()
+```
+**LS HUB KEYLESS Fish It **
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Louissyahpt/FishIt/refs/heads/main/LSxMyowHub"))()
+```
+**ToraHub Merge a Nuke Script**
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/MergeaNuke", true))()
+```

@@ -17,7 +17,7 @@ loadstring(game:HttpGet("https://pastebin.com/raw/iyYc5zds"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/WhatsHisIdentifierr/NoKey/refs/heads/main/CrackLoader",true))()
 ```
 
-**Stree Hub Free Version **
+**Stree Hub Free Version**
 
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/create-stree/STREE-HUB/refs/heads/main/Loader/Main.lua", true))()
